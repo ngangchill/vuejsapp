@@ -1,4 +1,4 @@
-# fuck
+# vuejsapp
 
 > A Vue.js project
 
